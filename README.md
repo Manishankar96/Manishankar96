@@ -38,23 +38,18 @@
   <img src="https://streak-stats.demolab.com?user=Manishankar96&theme=tokyonight&hide_border=true"/>
 </p>
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Manishankar96" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="[www.linkedin.com/in/mani-shankar-raavi-792071225](https://www.linkedin.com/in/mani-shankar-raavi-792071225/)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mani-shankar-raavi-792071225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:raavimanishankar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=webflow" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
