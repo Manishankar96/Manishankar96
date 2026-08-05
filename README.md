@@ -76,3 +76,20 @@ A role-based PG, food, and grocery delivery web application with separate user a
 A responsive business website with a modern UI and multiple sections for a digital agency.
 
 **Tech Stack:** HTML, CSS, JavaScript
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manishankar96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manishankar96&theme=tokyo-night&hide_border=true" />
+</p>
