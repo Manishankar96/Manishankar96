@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 
-  <a href="www.linkedin.com/in/mani-shankar-raavi-792071225" target="_blank">
+  <a href="[www.linkedin.com/in/mani-shankar-raavi-792071225](https://www.linkedin.com/in/mani-shankar-raavi-792071225/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
