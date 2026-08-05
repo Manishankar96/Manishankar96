@@ -128,3 +128,10 @@ A responsive business website with a modern UI and multiple sections for a digit
 - 🤖 Build AI-powered applications
 - 📈 Contribute regularly to Open Source
 - 💼 Secure a Software Developer role
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manishankar96/Manishankar96/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
