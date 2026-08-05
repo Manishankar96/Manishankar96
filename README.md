@@ -53,3 +53,26 @@
   📧 <a href="mailto:raavimanishankar@gmail.com"><b>raavimanishankar@gmail.com</b></a>
 </p>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AtlasAI
+An AI-powered Telegram assistant with Google Calendar integration, weather updates, and intelligent conversations using Groq AI.
+
+**Tech Stack:** Python, Groq AI, Google Calendar API, Telegram Bot API
+
+---
+
+### 🏠 PGWala
+A role-based PG, food, and grocery delivery web application with separate user and owner modules.
+
+**Tech Stack:** HTML, CSS, JavaScript, Firebase
+
+---
+
+### 💼 NorthPeak Digital
+A responsive business website with a modern UI and multiple sections for a digital agency.
+
+**Tech Stack:** HTML, CSS, JavaScript
